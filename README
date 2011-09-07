@@ -1,1 +1,11 @@
 Opis
+
+git config --global core.editor emacs
+ git config --global merge.tool vimdiff
+$ git config --global user.name "Jan Nowak"
+$ git config --global user.email jannowak@example.com
+
+plik /etc/gitconfig: Zawiera wartości zmiennych widoczne dla każdego użytkownika w systemie oraz dla każdego z ich repozytoriów. Jeśli dodasz opcję --system do polecenia git config, odczytane bądź zapisane zostaną zmienne z tej właśnie lokalizacji.
+plik ~/.gitconfig: Lokalizacja specyficzna dla danego użytkownika. Za pomocą opcji --global można uzyskać dostęp do tych właśnie zmiennych.
+plik konfiguracyjny w katalogu git (tzn. .git/config) bieżącego repozytorium: zawiera konfigurację charakterystyczną dla tego konkretnego repozytorium. Każdy poziom ma priorytet wyższy niż poziom poprzedni, zatem wartości zmiennych z pliku .git/config przesłaniają wartości zmiennych z pliku /etc/gitconfig.
+
