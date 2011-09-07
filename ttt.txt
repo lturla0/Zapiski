@@ -1,2 +1,3 @@
-README
-ttt.txt
+total 8
+-rw-r--r--  1 tarapat  staff  5  7 wrz 13:18 README
+-rw-r--r--  1 tarapat  staff  0  7 wrz 13:18 ttt.txt
