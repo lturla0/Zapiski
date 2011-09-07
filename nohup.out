@@ -1,0 +1,68 @@
+[2011-06-14 21:33:33] 4 miner threads started, using SHA256 'cryptopp_asm32' algorithm.
+[2011-06-14 21:33:55] thread 0: 16777215 hashes, 767.54 khash/sec
+[2011-06-14 21:34:02] thread 1: 16777215 hashes, 661.94 khash/sec
+[2011-06-14 21:34:12] thread 2: 16777215 hashes, 549.10 khash/sec
+[2011-06-14 21:34:16] thread 3: 16777215 hashes, 548.01 khash/sec
+[2011-06-15 09:35:27] thread 2: 649440580 hashes, 15.01 khash/sec
+[2011-06-15 09:35:28] thread 3: 649440580 hashes, 15.01 khash/sec
+[2011-06-15 09:35:48] thread 0: 684696839 hashes, 15.81 khash/sec
+[2011-06-15 09:36:27] HTTP request failed: Empty reply from server
+[2011-06-15 09:36:27] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 09:36:58] PROOF OF WORK RESULT: false (booooo)
+[2011-06-15 09:37:31] thread 2: 18010831 hashes, 542.08 khash/sec
+[2011-06-15 09:37:31] thread 3: 18010831 hashes, 542.31 khash/sec
+[2011-06-15 09:37:33] thread 0: 18969736 hashes, 547.24 khash/sec
+[2011-06-15 09:38:25] thread 1: 805306320 hashes, 18.53 khash/sec
+[2011-06-15 09:39:07] thread 1: 22234258 hashes, 542.04 khash/sec
+[2011-06-15 09:45:04] thread 1: 193190657 hashes, 543.17 khash/sec
+[2011-06-15 09:45:05] PROOF OF WORK RESULT: true (yay!!!)
+[2011-06-15 09:54:31] thread 3: 553728600 hashes, 543.29 khash/sec
+[2011-06-15 09:54:34] PROOF OF WORK RESULT: false (booooo)
+[2011-06-15 09:57:36] thread 0: 650390948 hashes, 540.76 khash/sec
+[2011-06-15 09:57:43] thread 2: 654939309 hashes, 540.54 khash/sec
+[2011-06-15 10:05:12] thread 1: 651204461 hashes, 540.32 khash/sec
+[2011-06-15 10:06:12] HTTP request failed: Empty reply from server
+[2011-06-15 10:06:12] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 10:14:11] thread 3: 652084710 hashes, 554.01 khash/sec
+[2011-06-15 10:17:01] thread 0: 648769025 hashes, 556.83 khash/sec
+[2011-06-15 10:17:07] thread 2: 648454761 hashes, 557.68 khash/sec
+[2011-06-15 10:26:36] thread 1: 648502367 hashes, 543.44 khash/sec
+[2011-06-15 10:34:34] thread 3: 664827231 hashes, 543.64 khash/sec
+[2011-06-15 10:37:34] thread 0: 668259939 hashes, 543.64 khash/sec
+[2011-06-15 10:37:37] thread 2: 669084878 hashes, 543.69 khash/sec
+[2011-06-15 10:46:37] thread 1: 652307494 hashes, 543.52 khash/sec
+[2011-06-15 10:54:40] thread 3: 652324347 hashes, 542.90 khash/sec
+[2011-06-15 10:57:35] thread 0: 652491396 hashes, 543.01 khash/sec
+[2011-06-15 10:57:39] thread 2: 652235461 hashes, 542.91 khash/sec
+[2011-06-15 11:06:38] thread 1: 652307494 hashes, 542.96 khash/sec
+[2011-06-15 11:14:39] thread 3: 651238948 hashes, 543.42 khash/sec
+[2011-06-15 11:17:34] thread 0: 651405719 hashes, 543.38 khash/sec
+[2011-06-15 11:17:38] thread 2: 651692384 hashes, 543.60 khash/sec
+[2011-06-15 11:26:41] thread 1: 651764357 hashes, 543.13 khash/sec
+[2011-06-15 11:30:30] thread 0: 422542253 hashes, 544.51 khash/sec
+[2011-06-15 11:30:30] PROOF OF WORK RESULT: false (booooo)
+[2011-06-15 11:34:39] thread 3: 652326158 hashes, 543.99 khash/sec
+[2011-06-15 11:34:39] HTTP request failed: The requested URL returned error: 400
+[2011-06-15 11:34:39] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 11:35:13] HTTP request failed: The requested URL returned error: 400
+[2011-06-15 11:35:13] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 11:35:44] HTTP request failed: The requested URL returned error: 400
+[2011-06-15 11:35:44] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 11:36:15] HTTP request failed: The requested URL returned error: 400
+[2011-06-15 11:36:15] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 11:36:45] HTTP request failed: The requested URL returned error: 500
+[2011-06-15 11:36:45] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 11:36:53] thread 2: 652235913 hashes, 565.14 khash/sec
+[2011-06-15 11:37:22] HTTP request failed: The requested URL returned error: 500
+[2011-06-15 11:37:22] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 11:37:53] HTTP request failed: The requested URL returned error: 500
+[2011-06-15 11:37:53] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 11:38:34] HTTP request failed: The requested URL returned error: 500
+[2011-06-15 11:38:34] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 11:39:10] HTTP request failed: The requested URL returned error: 500
+[2011-06-15 11:39:10] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 11:39:41] HTTP request failed: The requested URL returned error: 500
+[2011-06-15 11:39:41] json_rpc_call failed, retry after 30 seconds
+[2011-06-15 11:40:11] HTTP request failed: The requested URL returned error: 500
+[2011-06-15 11:40:11] json_rpc_call failed, terminating workio thread
+[2011-06-15 11:40:11] workio thread dead, exiting.
